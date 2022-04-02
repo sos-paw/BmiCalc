@@ -1,4 +1,4 @@
-# BMI Calculator
+# BMI Calculator in C#
 
 ## Table of contents
 * [General info](#general-info)
