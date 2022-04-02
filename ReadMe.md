@@ -15,14 +15,14 @@ units.
 
 ## Technologies
 Project is created with:
-* Kotlin
+* C#
 
 ## Project Status
 Project is: complete.
 
 ## Setup
-To run this project just copy and paste project to your project files in Kotlin.
-It was created in Android Studio.
+To run this project just copy and paste project to your project files in c#.
+It was created in Visual Studio.
 
 ## License 
 This project is open source.
