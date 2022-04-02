@@ -1,0 +1,10 @@
+C:\Users\sosa\Desktop\Zaliczenie Sosnowski\ProgramZaliczenieSosnowski\ProgramZaliczenieSosnowski\bin\Debug\ProgramZaliczenieSosnowski.exe.config
+C:\Users\sosa\Desktop\Zaliczenie Sosnowski\ProgramZaliczenieSosnowski\ProgramZaliczenieSosnowski\bin\Debug\ProgramZaliczenieSosnowski.exe
+C:\Users\sosa\Desktop\Zaliczenie Sosnowski\ProgramZaliczenieSosnowski\ProgramZaliczenieSosnowski\bin\Debug\ProgramZaliczenieSosnowski.pdb
+C:\Users\sosa\Desktop\Zaliczenie Sosnowski\ProgramZaliczenieSosnowski\ProgramZaliczenieSosnowski\obj\Debug\ProgramZaliczenieSosnowski.csprojAssemblyReference.cache
+C:\Users\sosa\Desktop\Zaliczenie Sosnowski\ProgramZaliczenieSosnowski\ProgramZaliczenieSosnowski\obj\Debug\ProgramZaliczenieSosnowski.Form1.resources
+C:\Users\sosa\Desktop\Zaliczenie Sosnowski\ProgramZaliczenieSosnowski\ProgramZaliczenieSosnowski\obj\Debug\ProgramZaliczenieSosnowski.Properties.Resources.resources
+C:\Users\sosa\Desktop\Zaliczenie Sosnowski\ProgramZaliczenieSosnowski\ProgramZaliczenieSosnowski\obj\Debug\ProgramZaliczenieSosnowski.csproj.GenerateResource.cache
+C:\Users\sosa\Desktop\Zaliczenie Sosnowski\ProgramZaliczenieSosnowski\ProgramZaliczenieSosnowski\obj\Debug\ProgramZaliczenieSosnowski.csproj.CoreCompileInputs.cache
+C:\Users\sosa\Desktop\Zaliczenie Sosnowski\ProgramZaliczenieSosnowski\ProgramZaliczenieSosnowski\obj\Debug\ProgramZaliczenieSosnowski.exe
+C:\Users\sosa\Desktop\Zaliczenie Sosnowski\ProgramZaliczenieSosnowski\ProgramZaliczenieSosnowski\obj\Debug\ProgramZaliczenieSosnowski.pdb
